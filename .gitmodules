@@ -1,0 +1,6 @@
+[submodule "my"]
+	path = my
+	url = git://github.com/mclear/my.git
+[submodule "www"]
+	path = www
+	url = git://github.com/mclear/my.git
